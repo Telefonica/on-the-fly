@@ -1,0 +1,8 @@
+termcolor
+gnureadline
+pynput
+zeroconf
+pymodbus
+python-nmap
+scapy
+dnslib
