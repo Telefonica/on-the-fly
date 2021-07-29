@@ -1293,7 +1293,7 @@ Public License instead of this License.  But first, please read
 
 
 
-pub_mqtt.py and sub_mqtt.py uses the paho.mqtt library is licensed EDLv1 and EPLv1
+mqtt_spoof, pub_mqtt.py and sub_mqtt.py uses the paho.mqtt library is licensed EDLv1 and EPLv1
 https://github.com/eclipse/paho.mqtt.python/blob/master/edl-v10
 
 Eclipse Distribution License - v 1.0
