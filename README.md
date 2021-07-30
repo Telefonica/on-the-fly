@@ -33,8 +33,21 @@ python on-the-fly.py
 
 # Example videos
 
-### *on-the-fly: Module ssdp_fake*
+### *on-the-fly: MySQL_manipulation Module*
+[![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/1kPE-u9YV2Y/0.jpg)](https://www.youtube.com/watch?v=1kPE-u9YV2Y)
+### *on-the-fly: SSDP_fake Module*
 [![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/kWb7FWmhyao/0.jpg)](https://youtu.be/kWb7FWmhyao)
+### *on-the-fly: Proxy_socks4 Module*
+[![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/YGkGZfPhGk8/0.jpg)](https://www.youtube.com/watch?v=YGkGZfPhGk8)
+### *on-the-fly: Port_forwarding Module*
+[![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/t74riJAYfuo/0.jpg)](https://www.youtube.com/watch?v=t74riJAYfuo)
+### *on-the-fly: Modbus_spoofing Module*
+[![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/vS5obvdlwHI/0.jpg)](https://www.youtube.com/watch?v=vS5obvdlwHI)
+### *on-the-fly: Modbus_sniffing_traffic Module*
+[![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/pnFKwHrdyPU/0.jpg)](https://www.youtube.com/watch?v=pnFKwHrdyPU)
+### *on-the-fly: MDNS_Scan Module*
+[![on-the-fly: Module ssdp_fake](https://img.youtube.com/vi/o6sOo8-Wqy8/0.jpg)](https://www.youtube.com/watch?v=o6sOo8-Wqy8)
+
 
 # License
 
